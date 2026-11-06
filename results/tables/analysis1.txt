@@ -1,0 +1,23 @@
+DT CS_base vs CS_dt5 t=60: area 1443 vs 1444 (0.07%) | sol 0.678 vs 0.670 | circ 0.428 vs 0.428 | Rmax/Req 1.777 vs 1.776 | IoU 0.9910
+DT CS_base vs CS_dt5 t=120: area 3629 vs 3622 (-0.19%) | sol 0.588 vs 0.593 | circ 0.345 vs 0.344 | Rmax/Req 1.951 vs 1.954 | IoU 0.9860
+DT CS_base vs CS_dt5 t=185: area 6827 vs 6834 (0.10%) | sol 0.548 vs 0.545 | circ 0.301 vs 0.301 | Rmax/Req 2.045 vs 2.045 | IoU 0.9836
+   maxres 8.70e-12 / 8.39e-12, maxphi 1.000000 / 1.000000, minphi -1.0000 / -1.0000, wall 2444 / 5013 s
+DT CC_base vs CC_dt5 t=50: area 1494 vs 1499 (0.33%) | sol 0.827 vs 0.823 | circ 0.559 vs 0.555 | Rmax/Req 1.609 vs 1.625 | IoU 0.9769
+DT CC_base vs CC_dt5 t=100: area 3808 vs 3814 (0.16%) | sol 0.715 vs 0.713 | circ 0.440 vs 0.438 | Rmax/Req 1.780 vs 1.783 | IoU 0.9721
+   maxres 8.57e-12 / 7.79e-12, maxphi 1.000000 / 1.000000, minphi -1.0000 / -1.0000, wall 1346 / 2679 s
+ROT CS_r30: area 6830 vs 6827 | sol 0.550 vs 0.548 | circ 0.301 vs 0.301 | Rmax/Req 2.046 vs 2.045 | IoU 0.9733 at 30.0 deg
+ROT CS_r45: area 6833 vs 6827 | sol 0.548 vs 0.548 | circ 0.306 vs 0.301 | Rmax/Req 2.042 vs 2.045 | IoU 0.9746 at 45.0 deg
+FIG6ROT: phi IoU 0.9038 at -44.5 deg | GB px 65 vs 34 | mean GB distance 0.62 / 0.12 cells | area 4742 vs 4627
+BX 0: area 2454 | sol 0.728 | circ 0.345 | GB px 0 | max |dtheta| across GB 0.7 deg
+BX 20: area 2507 | sol 0.647 | circ 0.339 | GB px 12 | max |dtheta| across GB 20.8 deg
+BX 40: area 2543 | sol 0.605 | circ 0.346 | GB px 13 | max |dtheta| across GB 40.7 deg
+BX 60: area 2560 | sol 0.600 | circ 0.348 | GB px 13 | max |dtheta| across GB 60.7 deg
+REAL F4C t=60 (n=5): coverage 0.266 +- 0.024 | islands 16.6 +- 3.8 | nuclei 14.2 +- 4.0 | GB px 33 +- 32
+REAL F4C t=80 (n=5): coverage 0.326 +- 0.020 | islands 16.0 +- 3.6 | nuclei 14.2 +- 4.0 | GB px 48 +- 32
+REAL F4C t=100 (n=5): coverage 0.374 +- 0.016 | islands 15.6 +- 3.4 | nuclei 14.2 +- 4.0 | GB px 66 +- 44
+REAL F4S t=60 (n=5): coverage 0.125 +- 0.020 | islands 17.2 +- 4.0 | nuclei 14.4 +- 4.3 | GB px 11 +- 20
+REAL F4S t=80 (n=5): coverage 0.171 +- 0.026 | islands 17.8 +- 3.4 | nuclei 14.4 +- 4.3 | GB px 13 +- 23
+REAL F4S t=100 (n=5): coverage 0.217 +- 0.029 | islands 18.8 +- 3.4 | nuclei 14.4 +- 4.3 | GB px 15 +- 25
+REAL F4M t=60 (n=5): coverage 0.239 +- 0.025 | islands 17.0 +- 3.8 | nuclei 14.0 +- 3.7 | GB px 38 +- 59
+REAL F4M t=80 (n=5): coverage 0.297 +- 0.025 | islands 17.6 +- 3.6 | nuclei 14.0 +- 3.7 | GB px 51 +- 71
+REAL F4M t=100 (n=5): coverage 0.347 +- 0.024 | islands 17.6 +- 3.6 | nuclei 14.0 +- 3.7 | GB px 57 +- 75

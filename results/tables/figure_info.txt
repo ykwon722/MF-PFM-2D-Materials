@@ -1,0 +1,35 @@
+
+==== 05-Nov-2026 04:10:25 ====
+Fig1 row 1 (D=5): t=223.3, flake area 6002, solidity 0.762, R/Req 1.69
+Fig1 row 2 (D=10): t=156.3, flake area 6002, solidity 0.895, R/Req 1.52
+Fig2 row 1 (tau=2): t=169.7, flake area 6002, solidity 0.557, R/Req 2.03
+Fig2 row 2 (tau=5): t=223.3, flake area 6002, solidity 0.762, R/Req 1.69
+Fig2 row 3 (tau=10): t=269.6, flake area 6004, solidity 0.935, R/Req 1.49
+Fig3 row 1 (F=0.002): t=156.3, flake area 6002, solidity 0.895, R/Req 1.52
+Fig3 row 2 (F=0.003): t=64.1, flake area 6014, solidity 0.900, R/Req 1.52
+Fig3 row 3 (F=0.006): t=19.6, flake area 6039, solidity 0.987, R/Req 1.21
+Fig4 row 1 (D=2 g=0.1): t=60.0, coverage 0.140
+Fig4 row 2 (D=10 g=0.1): t=60.0, coverage 0.261
+Fig4 row 3 (D=10 g=0.3): t=60.0, coverage 0.287
+Fig5 row 1 (tau=100): t=245.0, coverage 0.365
+Fig5 row 2 (tau=5): t=125.0, coverage 0.616
+Fig6 row 1 (symmetric): t=100.0, flake area 4742, solidity 0.559, R/Req 1.73
+Fig6 row 2 (asymmetric): t=100.0, coverage 0.086
+S1 (a): FG_D2_T2_F2 t=222.8 area 6003 solidity 0.350
+S1 (b): FG_D5_T2_F2 t=169.7 area 6002 solidity 0.557
+S1 (c): FG_D10_T2_F2 t=122.2 area 6001 solidity 0.688
+S1 (d): FG_D2_T5_F2 t=325.2 area 6004 solidity 0.582
+S1 (e): FG_D5_T5_F2 t=223.3 area 6002 solidity 0.762
+S1 (f): FG_D10_T5_F2 t=156.3 area 6002 solidity 0.895
+S1 (g): FG_D2_T10_F2 t=405.6 area 6003 solidity 0.771
+S1 (h): FG_D5_T10_F2 t=269.6 area 6004 solidity 0.935
+S1 (i): FG_D10_T10_F2 t=190.1 area 6002 solidity 0.987
+S2 (a): FG_D2_T5_F2 t=325.2 area 6004 solidity 0.582
+S2 (b): FG_D5_T5_F2 t=223.3 area 6002 solidity 0.762
+S2 (c): FG_D10_T5_F2 t=156.3 area 6002 solidity 0.895
+S2 (d): FG_D2_T5_F3 t=71.3 area 6000 solidity 0.738
+S2 (e): FG_D5_T5_F3 t=79.1 area 6009 solidity 0.691
+S2 (f): FG_D10_T5_F3 t=64.1 area 6014 solidity 0.900
+S2 (g): FG_D2_T5_F6 t=18.3 area 6019 solidity 0.986
+S2 (h): FG_D5_T5_F6 t=19.9 area 6008 solidity 0.986
+S2 (i): FG_D10_T5_F6 t=19.6 area 6039 solidity 0.987

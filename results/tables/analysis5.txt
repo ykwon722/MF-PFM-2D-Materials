@@ -1,0 +1,54 @@
+N6C t=100: dx1 A 503 sol 0.965 circ 1.036 R 1.030 | dx0.5 A 515 sol 0.987 circ 1.013 R 1.051
+N6C t=150: dx1 A 949 sol 0.983 circ 1.032 R 1.037 | dx0.5 A 977 sol 0.990 circ 0.996 R 1.055
+N6C t=200: dx1 A 1509 sol 0.981 circ 0.996 R 1.050 | dx0.5 A 1581 sol 0.992 circ 0.990 R 1.059
+N6C t=245: dx1 A 2136 sol 0.985 circ 1.000 R 1.053 | dx0.5 A 2229 sol 0.992 circ 0.980 R 1.069
+CSZ t=60: CS_base A 1443 sol 0.678 R 1.777 | CSZ dx1 A 1439 sol 0.664 R 1.778 | CSZ dx0.5 A 1503 sol 0.639 R 1.852
+CSZ t=120: CS_base A 3629 sol 0.588 R 1.951 | CSZ dx1 A 3628 sol 0.593 R 1.936 | CSZ dx0.5 A 3844 sol 0.552 R 2.028
+CSZ t=185: CS_base A 6827 sol 0.548 R 2.045 | CSZ dx1 A 6823 sol 0.550 R 2.044 | CSZ dx0.5 A 7313 sol 0.509 R 2.129
+WSW WSW_D10_T5_F2    A=2000: W0.75 sol 0.988 R 1.35 | W1 sol 0.983 R 1.36
+WSW WSW_D10_T5_F2    A=4000: W0.75 sol 0.956 R 1.44 | W1 sol 0.938 R 1.46
+   theta in flake [-0.0008 0.0405]
+WSW WSW_D10_T5_F3    A=2000: W0.75 sol 0.980 R 1.35 | W1 sol 0.980 R 1.31
+WSW WSW_D10_T5_F3    A=4000: W0.75 sol 0.931 R 1.49 | W1 sol 0.953 R 1.44
+   theta in flake [-0.0029 0.0486]
+WSW WSW_D10_T5_F6    A=2000: W0.75 sol 0.985 R 1.19 | W1 sol 0.985 R 1.17
+WSW WSW_D10_T5_F6    A=4000: W0.75 sol 0.987 R 1.22 | W1 sol 0.987 R 1.20
+   theta in flake [-0.0242 0.0154]
+WSW WSW_D2_T5_F2     A=2000: W0.75 sol 0.803 R 1.62 | W1 sol 0.660 R 1.82
+WSW WSW_D2_T5_F2     A=4000: W0.75 sol 0.761 R 1.70 | W1 sol 0.607 R 1.93
+   theta in flake [-0.0001 0.0166]
+WSW WSW_D5_T10_F2    A=2000: W0.75 sol 0.989 R 1.34 | W1 sol 0.984 R 1.34
+WSW WSW_D5_T10_F2    A=4000: W0.75 sol 0.973 R 1.42 | W1 sol 0.963 R 1.44
+   theta in flake [-0.0003 0.0111]
+WSW WSW_D5_T2_F2     A=2000: W0.75 sol 0.779 R 1.63 | W1 sol 0.642 R 1.84
+WSW WSW_D5_T2_F2     A=4000: W0.75 sol 0.731 R 1.73 | W1 sol 0.582 R 1.97
+   theta in flake [-0.0467 0.0502]
+WSW WSW_D5_T5_F2     A=2000: W0.75 sol 0.914 R 1.48 | W1 sol 0.871 R 1.53
+WSW WSW_D5_T5_F2     A=4000: W0.75 sol 0.857 R 1.57 | W1 sol 0.797 R 1.64
+   theta in flake [-0.0001 0.0319]
+OB OB_a60_p0_t0: A1 3130 A2 3156 ratio 1.008 (indep 1.000) | GB px 21 | islands 1 | union sol 0.554 circ 0.278 | placed [1 1]
+OB OB_a60_p0_t5: A1 3296 A2 2794 ratio 0.848 (indep 0.952) | GB px 21 | islands 1 | union sol 0.554 circ 0.281 | placed [1 1]
+OB OB_a60_p0_t10: A1 3412 A2 2433 ratio 0.713 (indep 0.904) | GB px 23 | islands 1 | union sol 0.561 circ 0.292 | placed [1 1]
+OB OB_a60_p0_t15: A1 3532 A2 2051 ratio 0.581 (indep 0.857) | GB px 25 | islands 1 | union sol 0.570 circ 0.305 | placed [1 1]
+OB OB_a60_p15_t0: A1 3105 A2 3142 ratio 1.012 (indep 1.000) | GB px 22 | islands 1 | union sol 0.552 circ 0.277 | placed [1 1]
+OB OB_a60_p15_t5: A1 3226 A2 2801 ratio 0.868 (indep 0.952) | GB px 44 | islands 1 | union sol 0.553 circ 0.282 | placed [1 1]
+OB OB_a60_p15_t10: A1 3337 A2 2464 ratio 0.738 (indep 0.904) | GB px 25 | islands 1 | union sol 0.560 circ 0.291 | placed [1 1]
+OB OB_a60_p15_t15: A1 3432 A2 2093 ratio 0.610 (indep 0.857) | GB px 37 | islands 1 | union sol 0.576 circ 0.311 | placed [1 1]
+OB OB_a60_p30_t0: A1 3039 A2 3059 ratio 1.007 (indep 1.000) | GB px 71 | islands 1 | union sol 0.568 circ 0.288 | placed [1 1]
+OB OB_a60_p30_t5: A1 3193 A2 2691 ratio 0.843 (indep 0.952) | GB px 66 | islands 1 | union sol 0.569 circ 0.292 | placed [1 1]
+OB OB_a60_p30_t10: A1 3331 A2 2264 ratio 0.680 (indep 0.904) | GB px 81 | islands 1 | union sol 0.589 circ 0.310 | placed [1 1]
+OB OB_a60_p30_t15: A1 4277 A2 991 ratio 0.232 (indep 0.857) | GB px 184 | islands 1 | union sol 0.622 circ 0.336 | placed [1 1]
+OB OB_a60_p45_t0: A1 2879 A2 2900 ratio 1.007 (indep 1.000) | GB px 88 | islands 1 | union sol 0.609 circ 0.324 | placed [1 1]
+OB OB_a60_p45_t5: A1 3150 A2 2379 ratio 0.755 (indep 0.952) | GB px 101 | islands 1 | union sol 0.638 circ 0.346 | placed [1 1]
+OB OB_a60_p45_t10: A1 3968 A2 1517 ratio 0.382 (indep 0.904) | GB px 75 | islands 1 | union sol 0.627 circ 0.337 | placed [1 1]
+OB OB_a60_p45_t15: A1 4296 A2 1289 ratio 0.300 (indep 0.857) | GB px 52 | islands 1 | union sol 0.587 circ 0.305 | placed [1 1]
+OB OB_a60_p60_t0: A1 2656 A2 2656 ratio 1.000 (indep 1.000) | GB px 125 | islands 1 | union sol 0.755 circ 0.434 | placed [1 1]
+OB OB_a60_p60_t5: A1 3593 A2 1884 ratio 0.524 (indep 0.952) | GB px 85 | islands 1 | union sol 0.642 circ 0.353 | placed [1 1]
+OB OB_a60_p60_t10: A1 3972 A2 1609 ratio 0.405 (indep 0.904) | GB px 44 | islands 1 | union sol 0.602 circ 0.321 | placed [1 1]
+OB OB_a60_p60_t15: A1 4198 A2 1386 ratio 0.330 (indep 0.857) | GB px 31 | islands 1 | union sol 0.590 circ 0.309 | placed [1 1]
+OB OB_a40_p0_t0: A1 3134 A2 3099 ratio 0.989 (indep 1.000) | GB px 22 | islands 1 | union sol 0.559 circ 0.277 | placed [1 1]
+OB OB_a40_p0_t10: A1 3382 A2 2404 ratio 0.711 (indep 0.904) | GB px 23 | islands 1 | union sol 0.572 circ 0.295 | placed [1 1]
+OB OB_a40_p30_t0: A1 3026 A2 3131 ratio 1.035 (indep 1.000) | GB px 50 | islands 1 | union sol 0.570 circ 0.281 | placed [1 1]
+OB OB_a40_p30_t10: A1 3316 A2 2409 ratio 0.726 (indep 0.904) | GB px 57 | islands 1 | union sol 0.579 circ 0.293 | placed [1 1]
+OB OB_a40_p60_t0: A1 2672 A2 2915 ratio 1.091 (indep 1.000) | GB px 77 | islands 1 | union sol 0.670 circ 0.374 | placed [1 1]
+OB OB_a40_p60_t10: A1 3917 A2 1659 ratio 0.424 (indep 0.904) | GB px 36 | islands 1 | union sol 0.615 circ 0.318 | placed [1 1]

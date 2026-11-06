@@ -1,0 +1,36 @@
+GRID t=60: | CS_base A 1443 sol 0.678 circ 0.428 R 1.777 IoU 1.000 | CS_dx05 A 1501 sol 0.639 circ 0.390 R 1.853 IoU 0.927 | CS_dx025 A 1445 sol 0.646 circ 0.401 R 1.766 IoU 0.561
+GRID t=120: | CS_base A 3629 sol 0.588 circ 0.345 R 1.951 IoU 1.000 | CS_dx05 A 3842 sol 0.554 circ 0.310 R 2.031 IoU 0.929 | CS_dx025 A 3708 sol 0.580 circ 0.292 R 1.988 IoU 0.496
+GRID t=185: | CS_base A 6827 sol 0.548 circ 0.301 R 2.045 IoU 1.000 | CS_dx05 A 7310 sol 0.511 circ 0.271 R 2.133 IoU 0.923 | CS_dx025 A 7122 sol 0.545 circ 0.237 R 2.124 IoU 0.527
+GRID A=2000: | CS_base t 77.5 sol 0.642 R 1.839 | CS_dx05 t 74.8 sol 0.608 R 1.912 | CS_dx025 t 76.9 sol 0.619 R 1.842
+GRID A=4000: | CS_base t 128.7 sol 0.582 R 1.966 | CS_dx05 t 123.4 sol 0.550 R 2.037 | CS_dx025 t 126.4 sol 0.576 R 2.001
+GRID A=6000: | CS_base t 169.5 sol 0.554 R 2.025 | CS_dx05 t 162.5 sol 0.522 R 2.102 | CS_dx025 t 165.7 sol 0.554 R 2.087
+   CS_base: dx 1.00 wall 2444 s maxres 8.7e-12 maxphi 1.00000
+   CS_dx05: dx 0.50 wall 15131 s maxres 9.1e-12 maxphi 1.00000
+   CS_dx025: dx 0.25 wall 57515 s maxres 8.7e-12 maxphi 0.99999
+GRID t=50: | CC_base A 1494 sol 0.827 circ 0.559 R 1.609 IoU 1.000 | CC_dx05 A 1500 sol 0.840 circ 0.542 R 1.632 IoU 0.957
+GRID t=100: | CC_base A 3808 sol 0.715 circ 0.440 R 1.780 IoU 1.000 | CC_dx05 A 3839 sol 0.713 circ 0.431 R 1.803 IoU 0.955
+GRID A=2000: | CC_base t 62.4 sol 0.794 R 1.668 | CC_dx05 t 62.3 sol 0.796 R 1.682
+GRID A=4000:
+GRID A=6000:
+   CC_base: dx 1.00 wall 1346 s maxres 8.6e-12 maxphi 1.00000
+   CC_dx05: dx 0.50 wall 7606 s maxres 8.4e-12 maxphi 1.00000
+GRID t=50: | N6B_dx1 A 833 sol 0.489 circ 0.177 R 1.540 IoU 1.000 | N6B_dx05 A 830 sol 0.507 circ 0.178 R 1.531 IoU 0.916
+GRID t=75: | N6B_dx1 A 2154 sol 0.540 circ 0.109 R 1.491 IoU 1.000 | N6B_dx05 A 2160 sol 0.547 circ 0.105 R 1.479 IoU 0.926
+GRID t=100: | N6B_dx1 A 4030 sol 0.558 circ 0.115 R 1.480 IoU 1.000 | N6B_dx05 A 4157 sol 0.572 circ 0.123 R 1.448 IoU 0.899
+GRID t=125: | N6B_dx1 A 7023 sol 0.616 circ 0.103 R 1.396 IoU 1.000 | N6B_dx05 A 6981 sol 0.600 circ 0.089 R 1.415 IoU 0.890
+GRID A=2000: | N6B_dx1 t 72.7 sol 0.533 R 1.494 | N6B_dx05 t 72.6 sol 0.542 R 1.485
+GRID A=4000: | N6B_dx1 t 99.7 sol 0.558 R 1.481 | N6B_dx05 t 98.6 sol 0.565 R 1.457
+GRID A=6000: | N6B_dx1 t 116.3 sol 0.607 R 1.415 | N6B_dx05 t 116.3 sol 0.599 R 1.415
+   N6B_dx1: dx 1.00 wall 1570 s maxres 3.4e-12 maxphi 0.99753
+   N6B_dx05: dx 0.50 wall 9140 s maxres 3.5e-12 maxphi 0.99733
+GRID t=100: | N6C_dx1 A 503 sol 0.965 circ 1.036 R 1.030 IoU 1.000 | N6C_dx05 A 515 sol 0.987 circ 1.013 R 1.051 IoU 0.952
+GRID t=150: | N6C_dx1 A 949 sol 0.983 circ 1.032 R 1.037 IoU 1.000 | N6C_dx05 A 977 sol 0.990 circ 0.996 R 1.055 IoU 0.965
+GRID t=200: | N6C_dx1 A 1509 sol 0.981 circ 0.996 R 1.050 IoU 1.000 | N6C_dx05 A 1581 sol 0.992 circ 0.990 R 1.059 IoU 0.955
+GRID t=245: | N6C_dx1 A 2136 sol 0.985 circ 1.000 R 1.053 IoU 1.000 | N6C_dx05 A 2229 sol 0.992 circ 0.980 R 1.069 IoU 0.959
+GRID A=2000: | N6C_dx1 t 235.4 sol 0.978 R 1.049 | N6C_dx05 t 229.5 sol 0.990 R 1.064
+GRID A=4000:
+GRID A=6000:
+   N6C_dx1: dx 1.00 wall 3036 s maxres 3.3e-12 maxphi 0.99983
+   N6C_dx05: dx 0.50 wall 25680 s maxres 3.6e-12 maxphi 0.99983
+REAL F5C final: coverage 0.329+-0.047 | islands 7.2+-0.4 | nuclei 14.4+-4.3 | GB px (raw >5deg) 384+-250 | crystallographic GB px (mod 60 >5deg) 375+-246
+REAL F5B final: coverage 0.574+-0.043 | islands 12.6+-2.7 | nuclei 14.4+-4.3 | GB px (raw >5deg) 11+-17 | crystallographic GB px (mod 60 >5deg) 11+-16

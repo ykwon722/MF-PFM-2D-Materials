@@ -1,0 +1,8 @@
+D = 5, \tau_\phi = 10 g=0.35: t=240.0 area 6002 solidity 0.694 circ 0.412 R/Req 1.84
+D = 5, \tau_\phi = 10 g=0.20: t=247.4 area 6006 solidity 0.772 circ 0.489 R/Req 1.69
+D = 5, \tau_\phi = 10 g=0.10: t=269.6 area 6004 solidity 0.935 circ 0.666 R/Req 1.49
+D = 5, \tau_\phi = 10 g=0.03: t=293.5 area 6003 solidity 0.988 circ 0.972 R/Req 1.13
+D = 10, \tau_\phi = 5 g=0.35: t=135.5 area 6003 solidity 0.646 circ 0.380 R/Req 1.89
+D = 10, \tau_\phi = 5 g=0.20: t=141.5 area 6000 solidity 0.733 circ 0.452 R/Req 1.75
+D = 10, \tau_\phi = 5 g=0.10: t=156.3 area 6002 solidity 0.895 circ 0.630 R/Req 1.52
+D = 10, \tau_\phi = 5 g=0.03: t=173.2 area 6001 solidity 0.990 circ 0.966 R/Req 1.15
